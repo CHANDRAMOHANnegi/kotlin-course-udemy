@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'in.demo.mycalculator'
+    namespace 'in.demo.dobcalc'
     compileSdk 33
 
     defaultConfig {
-        applicationId "in.demo.mycalculator"
+        applicationId "in.demo.dobcalc"
         minSdk 25
         targetSdk 33
         versionCode 1
